@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bace961d-ccd9-4eda-b68e-33e3d2e524ae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3ElPHuWVlAoRAWPCyVxL3oNAu2b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.AlertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertTest.forgotPasswordAlertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertTest.signInAlertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/2497737/IdeaProjects/SeleniumMiniProject/src/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/2497737/IdeaProjects/SeleniumMiniProject/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2497737/IdeaProjects/SeleniumMiniProject&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2497737\IdeaProjects\SeleniumMiniProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/2497737/IdeaProjects/SeleniumMiniProject/testng.xml">
+    <configuration name="AlertTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMiniProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AlertTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertTest.forgotPasswordAlertTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMiniProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AlertTest" />
+      <option name="METHOD_NAME" value="forgotPasswordAlertTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertTest.signInAlertTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMiniProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AlertTest" />
+      <option name="METHOD_NAME" value="signInAlertTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/2497737/IdeaProjects/SeleniumMiniProject/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMiniProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/2497737/IdeaProjects/SeleniumMiniProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMiniProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/2497737/IdeaProjects/SeleniumMiniProject/testng.xml" />
+        <item itemvalue="TestNG.AlertTest.signInAlertTest" />
+        <item itemvalue="TestNG.AlertTest.forgotPasswordAlertTest" />
+        <item itemvalue="TestNG.C:/Users/2497737/IdeaProjects/SeleniumMiniProject/src/testng.xml" />
+        <item itemvalue="TestNG.AlertTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bace961d-ccd9-4eda-b68e-33e3d2e524ae" name="Changes" comment="" />
+      <created>1780750104247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780750104247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.exe" />
+  </component>
+</project>
